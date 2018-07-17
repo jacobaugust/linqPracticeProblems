@@ -11,6 +11,7 @@ namespace linqPracticeProblems
         static void Main(string[] args)
         {
             Problem1.SearchWord();
+            Problem2.SearchList();
         }
     }
 }
