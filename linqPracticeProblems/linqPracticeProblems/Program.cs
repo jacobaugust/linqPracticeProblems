@@ -12,6 +12,7 @@ namespace linqPracticeProblems
         {
             Problem1.SearchWord();
             Problem2.SearchList();
+            Problem4.SearchString();
         }
     }
 }
